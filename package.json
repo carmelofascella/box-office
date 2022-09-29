@@ -13,6 +13,8 @@
     "react-router": "^6.4.1",
     "react-router-dom": "^6.4.1",
     "react-scripts": "5.0.1",
+    "styled-component": "^2.8.0",
+    "styled-components": "^5.3.6",
     "web-vitals": "^2.1.4",
     "workbox-core": "^6.5.4",
     "workbox-expiration": "^6.5.4",
@@ -59,5 +61,8 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "prettier": "^2.7.1",
     "rimraf": "^3.0.2"
+  },
+  "resolutions": {
+    "styled-components": "^5"
   }
 }
