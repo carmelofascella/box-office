@@ -6,7 +6,9 @@
   },
   "parser": "@babel/eslint-parser",
   "parserOptions": {
-    "requireConfigFile": false
+    "requireConfigFile": false,
+    "presets": ["@babel/preset-react"],
+    "sourceType": "module"
   },
   "rules": {
     "no-plusplus": [0],
